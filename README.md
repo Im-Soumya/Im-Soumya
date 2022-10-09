@@ -49,10 +49,10 @@ Connect with me:
       <thead>
             <tr>
                   <th>
-                        <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Somesh-Debnath&show_icons=true&theme=radical"></p>
+                        <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Im-Soumya&show_icons=true&theme=tokyonight&count_private=true"></p>
                   </th>
                   <th>
-                        <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Somesh-Debnath"> </p>
+                        <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Im-Soumya"> </p>
                   </th>
             </tr>
       </thead>
