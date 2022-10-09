@@ -1,4 +1,4 @@
-<h1 >Hi 👋, I'm Soumya Mukherjee</h1>
+<h1 >Hello 👋, I'm Soumya Mukherjee</h1>
 <h3 >An aspiring Front-end developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Im-Soumya&label=Profile%20views&color=0e75b6&style=flat" alt="SoumyaMukherjee" /> </p>
@@ -7,7 +7,7 @@
 
 - I’m currently working on **Web Projects**
 
-- I've a passion for learning modern technologies like Blockchain and building real-world apps.
+- I love to create solid scalable front-end products with delightful user experiences.
 
 Connect with me:
 
@@ -19,9 +19,6 @@ Connect with me:
 
 ![Git Logo](icons/react.png)
 ![Git Logo](icons/next.png)
-
-<!-- ![Git Logo](icon/linux.png) -->
-
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
@@ -35,6 +32,7 @@ Connect with me:
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://ethers.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" alt="Ethers" /></a>
 
+<!-- ![Git Logo](icon/linux.png) -->
 <!-- <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a> -->
 <!-- <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a> -->
 <!-- <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a> -->
