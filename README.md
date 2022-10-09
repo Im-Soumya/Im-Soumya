@@ -17,8 +17,8 @@ Connect with me:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
-![Git Logo](icon/react.png)
-![Git Logo](icon/next.png)
+![Git Logo](icons/react.png)
+![Git Logo](icons/next.png)
 
 <!-- ![Git Logo](icon/linux.png) -->
 
