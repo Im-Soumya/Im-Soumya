@@ -5,8 +5,6 @@
 
 - I’m currently learning **BlockChain**
 
-- I’m currently working on **Web Projects**
-
 - I love to create solid scalable front-end products with delightful user experiences.
 
 Connect with me:
