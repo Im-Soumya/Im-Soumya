@@ -55,5 +55,3 @@ Connect with me:
             </tr>
       </thead>
 </table>
-
-<p align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Soumya&layout=compact)](https://github.com/anuraghazra/github-readme-stats) </p>
