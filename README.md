@@ -56,4 +56,4 @@ Connect with me:
       </thead>
 </table>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Soumya&langs_count=10"> </p>
+<p align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Soumya&layout=compact)](https://github.com/Im-Soumya/github-readme-stats) </p>
