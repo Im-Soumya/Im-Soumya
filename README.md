@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Im-Soumya&label=Profile%20views&color=0e75b6&style=flat" alt="SoumyaMukherjee" /> </p>
 
-- I’m currently learning **Blockchain**
+- I’m currently exploring **Blockchain**
 
 - I love to create solid scalable front-end products with delightful user experiences.
 
