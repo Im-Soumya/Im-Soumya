@@ -3,9 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Im-Soumya&label=Profile%20views&color=0e75b6&style=flat" alt="SoumyaMukherjee" /> </p>
 
-- I’m currently learning **Blockchain**
+- I’m currently learning **Web2** and **Web3** technologies.
 
-- I love to create solid scalable front-end products with delightful user experiences.
+- I will be happy to collaborate on Blockchain projects.
+
+- I am looking to meet with **Builders**.
+
+- How to reach me soumyamukherjee.work@gmail.com
 
 Connect with me:
 
