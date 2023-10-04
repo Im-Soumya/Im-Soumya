@@ -1,6 +1,6 @@
 ## 👋🏼 Hello
 
-I am **Soumya Mukherjee** (he/him/his). I am a front-end developer. I have a passion for learning modern technologies and currently working in web3.
+I am **Soumya Mukherjee**. I am a web3 developer. I have a passion for learning modern technologies and currently working in web3 space.
 
 <table>
       <thead>
